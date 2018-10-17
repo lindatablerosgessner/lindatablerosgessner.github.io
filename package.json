@@ -1,0 +1,31 @@
+{
+  "name": "lindatablerosgessner.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio - Linda Tableros Gessner",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindatablerosgessner/lindatablerosgessner.github.io.git"
+  },
+  "keywords": [
+    "portfolio",
+    "JavaScript",
+    "Game",
+    "HTML",
+    "CSS",
+    "p5.js"
+  ],
+  "author": "Linda Tableros Gessner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindatablerosgessner/lindatablerosgessner.github.io/issues"
+  },
+  "homepage": "https://github.com/lindatablerosgessner/lindatablerosgessner.github.io#readme"
+}

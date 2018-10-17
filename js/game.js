@@ -1,10 +1,10 @@
-function setup() { 
-  createCanvas(windowWidth, windowHeight);
-} 
+// function setup() { 
+//   createCanvas(windowWidth, windowHeight);
+// } 
 
 // const pizza;
 // const setup = () => {
-//   createCanvas(400, 800);
+//   createCanvas(windowWidth, windowHeight);
 //   pizza = new pizzaForm;
 // }
 
@@ -13,7 +13,7 @@ function setup() {
 //   pizza.render;
 // }
 
-// to let start the Pizza in the middle of the screen, center it at Width/2 and Height/2
+// // to let start the Pizza in the middle of the screen, center it at Width/2 and Height/2
 // const pizzaForm = () => {
 //   this.pos = createVector(width/2, height/2);
 //   this.r = 10;
