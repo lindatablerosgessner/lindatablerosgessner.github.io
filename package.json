@@ -4,7 +4,8 @@
   "description": "Portfolio - Linda Tableros Gessner",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^4.1.3"
+    "bootstrap": "^4.1.3",
+    "particles.js": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
