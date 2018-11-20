@@ -4,15 +4,15 @@ html, body {
   height: 94%;
   font-family: 'Press Start 2P', cursive;
   color: white;
-  background-color: black;
+  /* background-color: darkslategray; */
 }
 
-canvas {
+/* canvas {
   margin: 4em;
   background-color: black;
   width: 100%;
   height: 100%;
-}
+} */
 
 ul li a:hover{
   color: #fff;
